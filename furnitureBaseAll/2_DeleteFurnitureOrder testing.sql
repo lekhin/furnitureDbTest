@@ -1,0 +1,1 @@
+exec DeleteFurnitureOrder 123
